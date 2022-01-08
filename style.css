@@ -37,7 +37,7 @@ section{
 section{
     display: flex;
 }
-#mission-title{
+.mission-title{
     text-align: center;
 }
 section{
@@ -65,5 +65,10 @@ section{
     display: flex;
 }
 #color{
-    background-color: rgb(156, 130, 130);
+    background-color: black;
+    height: 0%;
+    width: 100%;
+}
+.hard-work{
+    color: white;
 }
